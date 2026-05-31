@@ -1,0 +1,10 @@
+data/raw/
+data/processed/
+models/
+powerbi_exports/
+database/
+reports/
+__pycache__/
+*.pyc
+*.pyo
+.env
